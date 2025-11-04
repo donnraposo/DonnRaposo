@@ -18,8 +18,8 @@
 --- 
 
 ## Projetos em destaque  
-- **API_Simple_Laravel** — Estudo e construções de API  
-- **API_With_Sanctum** — Projeto com autenticação usando Laravel Sanctum  
+- **SistemaHelpDesk** — BackEnd sistema de HelpDesk. PHP(Laravel)
+- **Sistema_de_Gerenciamento_de_Hd-s** — Plataforma completa para gestão integrada de recursos de TI, clientes e projetos. Python(Django)  
 
 ---
 
